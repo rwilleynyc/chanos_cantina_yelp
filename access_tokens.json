@@ -1,0 +1,16 @@
+{
+  "twitter": {
+  	"first_app_rwilleyii": {
+      "API key": "SGVwnfi0wfxxpClVtfZ0cQX2n",
+      "API secret key": "IkEQcNsPTokX1CRy2WvJHTOKmuW7nPa9VRhV49XOfYJBTjt2Tr",
+      "Access token": "93736183-DlcvP9ZsMeVOxVav4rkIQTSyYJHmGSySVX4nFFbfs",
+      "Access token secret": "8xe3QUFaO0HfCfE2uOQtkGu2KW0oxwcHzS5R3eGcGtgJd"
+    }
+  },
+  "yelp": {
+  	"first_yelp_app_rwilleyii": {
+  		"Client ID": "TKz2edtltxgYtPzgSrH9EQ",
+  		"API Key": "qq1PcXKKTinFQw_76grZ8OaSaWWPs-oN7AOcEhgUJU2ZsYyzllZF3-SoFcJ3zyeS7SbfGg3XTVDBCtUriAq7Nl_A0ZOZPbF-E5J9is5rpAwfi5HHpiWdCdA03IFGXHYx"
+  	}
+  }
+}
