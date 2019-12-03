@@ -1,0 +1,51 @@
+name,categories,rating,price
+Tacuba,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'latin', 'title': 'Latin American'}]",3.5,$$
+Mi Espiguita Taqueria,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,$
+El Mero Mero,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,$$
+Hoja Santa,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'mexican', 'title': 'Mexican'}]",4.5,
+The Calaveras,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",4.5,$$
+Athens Grill & Sports Bar,"[{'alias': 'mexican', 'title': 'Mexican'}]",4,$
+Mezquite Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'peruvian', 'title': 'Peruvian'}, {'alias': 'seafood', 'title': 'Seafood'}]",4,$$
+Fresco's Cantina,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",4.5,$$
+Chela & Garnacha,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,$$
+Las Catrinas Mexican Bar & Eatery,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4,$$
+De Mole Astoria,"[{'alias': 'mexican', 'title': 'Mexican'}]",4,$$
+Casa Mexicana,"[{'alias': 'mexican', 'title': 'Mexican'}]",4,$$
+Chihuahua,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,$$
+St James Deli,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,$
+La Sala,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",4.5,$$
+Chano's Cantina,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",4,$$
+Lunera Modern Mexican,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",4,$$
+Swick 2,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",4,$
+Viva Viva Taqueria,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'mexican', 'title': 'Mexican'}]",5,
+Maizal Restaurant & Tequila Bar,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4,$$
+Casa Enrique,"[{'alias': 'mexican', 'title': 'Mexican'}]",4,$$
+The Astorian,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4.5,$$
+Tacos Mexico,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,$
+Barnacho,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",4,$$
+Homemade Taqueria,"[{'alias': 'tacos', 'title': 'Tacos'}]",4,$
+El Mariachi Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}]",3.5,$
+Corazon De Mexico Restaurant & Bar,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4,$$
+Esquina Tequila,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,
+El Rey Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}]",3.5,$$
+La Chona's,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",3.5,
+Laly's Restaurant,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4.5,$$
+Trestle,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",4,$$
+Rocky McBride's,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'pubs', 'title': 'Pubs'}]",4.5,$$
+Taqueria Santa Fe,"[{'alias': 'mexican', 'title': 'Mexican'}]",4.5,$
+Noche De Margaritas,"[{'alias': 'mexican', 'title': 'Mexican'}]",4,$$
+Parrilladas Sunrise,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",4,$$
+Los Amigos Mexican Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",3,$$
+Toloache 82nd,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",4,$$$
+Ninos Aq,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4,
+The Haab,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",4,$$
+Two Lizards Mexican Bar & Grill,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",3.5,$$
+Oxomoco,"[{'alias': 'mexican', 'title': 'Mexican'}]",4,$$$
+Mojave,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",3.5,$$
+La Cabana,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'mexican', 'title': 'Mexican'}]",4,$
+Juquila Mexican Cuisine,"[{'alias': 'mexican', 'title': 'Mexican'}]",4,$$
+The Social,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4.5,$$
+Mexicue,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4,$$
+Juquila Kitchen and Bar,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",4,$$
+Acento Latin Kitchen and Bar,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",4,$$
+The Brewery Bar & Kitchen,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'irish', 'title': 'Irish'}]",4.5,$$
